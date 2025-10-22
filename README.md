@@ -1,4 +1,4 @@
-# 🚗 Car Sales Agent Website
+# 🚗 GWM Car Sales Agent Website
 
 A modern and responsive **GWM Sales Agent Web Application** that enables car dealers or agents to showcase, manage, and sell vehicles efficiently. Built using **Next TypeScript** .
 
